@@ -1,3 +1,10 @@
+git add git.txt 
+git commit
+git push
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDSsQ2V6/juofvehMpGf2VETPsLEfjC6MaOCy/HPq9d3xzIJ1WAo4Lg8PfHncrclkNuhz25qlQQIqt63Z5njFfW3cJZuD06WBCARLUvp+zLAYCLoEZCsz1bHFqep7EWbKny5RqQ1cCvJKwKASLqksWSHKh4uyTU6gYkJgrJKBLgtlh2sxjVUZ0d1r2owEpY2W5dAv+oU9e9cQzUgd/B2HpBcjmgFk5oNAVFWA558FZcVcN4oRDk36EJ4sfeX9HU9SAAlp2yBUlZxFyfv+q8/c6ZjzC26Swbpixeb3Q+TTWbapu6GKMQhYX+k3EwtLJqTbYd+wcjXh0mueWAjKnXnrtd ssfbfun@yahoo.com
+
+
 Global setup:
 
  Set up git
